@@ -4,7 +4,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-color: rgba(0, 0, 0, 0.1);
+    background-color: rgba(37, 37, 32, 0.418);
     height: 100%;
     width: 100%;
     position: relative;
@@ -45,6 +45,7 @@ h5 {
 }
 .order{
     font-size: 30px;
+    text-align: center;
   }
 .text-center1{
     color:maroon;
@@ -64,12 +65,13 @@ h5 {
 .card-title{
   text-align: center;
   color: maroon;
-  font-weight: bold;
+  font-size:large;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .text-center6{
   text-align: center;
   color: blue;
+  font-size: medium;
 }
 #order-now{
   background-image: url("../image/varieties/order-now.jpg");
@@ -81,6 +83,10 @@ h5 {
 #species{
   background-color: rgba(37, 37, 32, 0.418);
   padding-top: 25px;
+}
+.nav-link{
+  color: white;
+  font-size: large;
 }
 .text-center7{
   color: maroon;
@@ -112,4 +118,8 @@ label{
 #button{
   padding-left: 70px;
   padding-top: 20px;
+}
+footer{
+  padding-top: 10px;
+  text-align: center;
 }
