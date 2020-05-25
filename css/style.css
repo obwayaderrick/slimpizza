@@ -102,4 +102,25 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
   font-weight: bolder;
   font-size: 20px;
   }
-  
+  #name{
+    color: maroon;
+    }
+    #size{
+    color:maroon;
+    }
+    #crust{
+    color:maroon;
+    }
+    label{
+    color:white;
+    font-weight: bolder;
+    font-size: medium;
+    }
+    #button{
+    padding-left: 70px;
+    padding-top: 20px;
+    }
+    footer{
+    padding-top: 10px;
+    text-align: center;
+    }
