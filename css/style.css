@@ -1,5 +1,5 @@
 #First{
-    background-image: url("../images/pizz1.jpeg");
+    background-image: url("../image/varieties/order-now.jpeg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -62,7 +62,7 @@ h5 {
   color: blue;
 }
 #order-now{
-  background-image: url("../images/pizz1.jpeg");
+  background-image: url("../image/varieties/order-now.jpeg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
