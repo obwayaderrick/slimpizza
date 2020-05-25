@@ -1,5 +1,5 @@
 #First{
-    background-image: url("../image/varieties/order-now.jpeg");
+    background-image: url("../image/varieties/order-now.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -11,33 +11,43 @@
 }
 .navbar-brand{
     margin-right: 20%;
+    text-align: center;
+    color: white;
   }
-.nav-item a{
+.nav-item {
     font-size: 25px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
   }
   #second{
     padding-top: 200px;
 }
 .brand{
     letter-spacing: 9px;
-    color: gold;
+    color:maroon;
     font-weight: bolder;
     font-family: "Times New Roman", Times, serif;
     font-size: 60px;
+    text-align: center;
   }
 h5 {
-    letter-spacing: 5px;
-    color: gold;
+    letter-spacing: 8px;
+    color:white;
     padding-top: 15px;
+    text-size-adjust: 50px;
+    text-align: center;
+    font-size: 50px;
 }
 #order{
     padding: 100px;
+    text-align: center;
 }
 .order{
     font-size: 30px;
   }
 .text-center1{
-    color: blue;
+    color:maroon;
     text-align: center;
     font-size: 40px;
     padding-top: 40px;
@@ -47,13 +57,13 @@ h5 {
     text-align: center;
   }
 .Info{
-  background-color: gold;
+  background-color:white;
   text-align: center;
   padding: 60px;
 }
 .card-title{
   text-align: center;
-  color: blue;
+  color: maroon;
   font-weight: bold;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
@@ -62,7 +72,7 @@ h5 {
   color: blue;
 }
 #order-now{
-  background-image: url("../image/varieties/order-now.jpeg");
+  background-image: url("../image/varieties/order-now.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -73,26 +83,26 @@ h5 {
   padding-top: 25px;
 }
 .text-center7{
-  color: gold;
+  color: maroon;
   text-align: center;
   font-weight: bolder;
   padding-top: 20px;
 }
 .text-center8{
-  color: gold;
+  color:maroon;
   text-align: center;
   letter-spacing: 5px;
   font-weight: bolder;
   font-size: 20px;
 }
 #name{
-  color: blue;
+  color: maroon;
 }
 #size{
-  color: blue;
+  color:maroon;
 }
 #crust{
-  color: blue;
+  color:maroon;
 }
 label{
   color:white;
