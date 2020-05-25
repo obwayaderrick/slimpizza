@@ -83,6 +83,7 @@ h5 {
 #species{
   background-color: rgba(37, 37, 32, 0.418);
   padding-top: 25px;
+  text-align: center;
 }
 .nav-link{
   color: white;
