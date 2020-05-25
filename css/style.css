@@ -14,3 +14,12 @@
   text-align: center;
   color: white;
 }
+.nav-item {
+  font-size: 25px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+#second{
+  padding-top: 200px;
+}
