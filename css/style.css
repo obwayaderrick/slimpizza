@@ -1,0 +1,105 @@
+#First{
+    background-image: url("../images/pizz1.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: rgba(0, 0, 0, 0.1);
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+.navbar-brand{
+    margin-right: 20%;
+  }
+.nav-item a{
+    font-size: 25px;
+  }
+  #second{
+    padding-top: 200px;
+}
+.brand{
+    letter-spacing: 9px;
+    color: gold;
+    font-weight: bolder;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 60px;
+  }
+h5 {
+    letter-spacing: 5px;
+    color: gold;
+    padding-top: 15px;
+}
+#order{
+    padding: 100px;
+}
+.order{
+    font-size: 30px;
+  }
+.text-center1{
+    color: blue;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 40px;
+    font-weight: bolder;
+  }
+  .about-image{
+    text-align: center;
+  }
+.Info{
+  background-color: gold;
+  text-align: center;
+  padding: 60px;
+}
+.card-title{
+  text-align: center;
+  color: blue;
+  font-weight: bold;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.text-center6{
+  text-align: center;
+  color: blue;
+}
+#order-now{
+  background-image: url("../images/pizz1.jpeg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+#species{
+  background-color: rgba(37, 37, 32, 0.418);
+  padding-top: 25px;
+}
+.text-center7{
+  color: gold;
+  text-align: center;
+  font-weight: bolder;
+  padding-top: 20px;
+}
+.text-center8{
+  color: gold;
+  text-align: center;
+  letter-spacing: 5px;
+  font-weight: bolder;
+  font-size: 20px;
+}
+#name{
+  color: blue;
+}
+#size{
+  color: blue;
+}
+#crust{
+  color: blue;
+}
+label{
+  color:white;
+  font-weight: bolder;
+  font-size: medium;
+}
+#button{
+  padding-left: 70px;
+  padding-top: 20px;
+}
