@@ -23,3 +23,11 @@
 #second{
   padding-top: 200px;
 }
+.brand{
+  letter-spacing: 9px;
+  color:maroon;
+  font-weight: bolder;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 60px;
+  text-align: center;
+}
