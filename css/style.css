@@ -68,3 +68,38 @@ color: maroon;
 font-size:large;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+.text-center6{
+  text-align: center;
+  color: blue;
+  font-size: medium;
+  }
+  #order-now{
+  background-image: url("../image/varieties/order-now.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  }
+  #species{
+  background-color: rgba(37, 37, 32, 0.418);
+  padding-top: 25px;
+  text-align: center;
+  }
+  .nav-link{
+  color: white;
+  font-size: large;
+  }
+  .text-center7{
+  color: maroon;
+  text-align: center;
+  font-weight: bolder;
+  padding-top: 20px;
+  }
+  .text-center8{
+  color:maroon;
+  text-align: center;
+  letter-spacing: 5px;
+  font-weight: bolder;
+  font-size: 20px;
+  }
+  
