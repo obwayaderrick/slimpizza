@@ -9,3 +9,8 @@
     width: 100%;
     position: relative;
 }
+.navbar-brand{
+  margin-right: 20%;
+  text-align: center;
+  color: white;
+}
