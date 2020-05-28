@@ -1,0 +1,51 @@
+# SLIMPIZZA
+
+
+This is a simple website for an well known studio 
+
+## Getting Started 
+
+
+## Author(s) information
+
+ Name: Derrick Obwaya
+ Mail: Obwayaderrick@gmail.com
+
+## Prerequisites
+
+What things you need to install the software and how to install them
+-bootstrap
+-ubuntu
+-jQueries
+
+```
+Browser or a Text Edidtor 
+```
+## Technologies Used
+
+-HTML , css and index.js
+-Atom,vs Code,Directories `cd Portfolio`
+ -Open index.html on the Browser
+-javascript
+
+
+### Development
+
+ To enhance an exixsting module 
+ -Create a new branch 
+ -Make an appropriate changes in the files
+ -Add changes to reflect the changes made  
+
+
+
+###Contact information.
+
+Number: 0729793668
+Email :Obwayaderrick@gmail.com
+
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md]
+(LICENSE.md) file for det
